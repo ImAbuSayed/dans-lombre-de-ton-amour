@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dans-lombre-de-ton-amour/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Dans L'ombre De Ton Amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dans-lombre-de-ton-amour/) |
+| **Get License** | [Get License For Dans L'ombre De Ton Amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dans-lombre-de-ton-amour/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans la nuit sombre, ton parfum m'envoûte
+> Viens tout près de moi, tu dissipes mes doutes
+> Sous les néons chics, la passion s'écrit
+> Dans l'ombre de ton amour, on vit pour la nuit
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2e32eb4f2bbcba6a2a5203739cfd85d768d3fcd013325dbbfdd08f180f4e1986` |
 | **Timestamp** | June 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
